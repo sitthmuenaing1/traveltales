@@ -1,6 +1,6 @@
 # traveltales
 
-A new Flutter project.
+TravelTales Mobile App project.
 
 ## Getting Started
 
