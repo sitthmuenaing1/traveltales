@@ -1,2 +1,0 @@
-# traveltales
-TravelTales Mobile App 
