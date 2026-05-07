@@ -224,7 +224,7 @@ class _HomeScreenState extends State<HomeScreen> {
                               child: ListView.separated(
                                 padding: const EdgeInsets.all(12),
                                 itemCount: matches.length,
-                                separatorBuilder: (_, __) =>
+                                separatorBuilder: (context, index) =>
                                     const Divider(height: 1),
                                 itemBuilder: (_, i) {
                                   final p = matches[i];
