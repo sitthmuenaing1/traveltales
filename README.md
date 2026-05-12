@@ -1,4 +1,4 @@
-# traveltales
+# TravelTales
 
 TravelTales Mobile App project.
 
@@ -15,3 +15,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+The app of TravelTales was developed using the Flutter development server. The following command “flutter run” was used to run the application locally.
